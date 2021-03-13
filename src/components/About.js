@@ -6,7 +6,7 @@ function About(props) {
   return (
     <div class="w3-half w3-blue-grey w3-container" style={{ height: "700px" }}>
       <div class="w3-padding-64 w3-center">
-        <h1>About Me</h1>
+        <h1>About MeXXX</h1>
         <img
           src={profilePic}
           class="w3-margin w3-circle"
